@@ -349,6 +349,9 @@
     "nette/utils": {
         "version": "v2.5.3"
     },
+    "nyholm/append-query-string": {
+        "version": "0.1.1"
+    },
     "ocramius/proxy-manager": {
         "version": "2.2.2"
     },
@@ -411,6 +414,9 @@
     },
     "phpoption/phpoption": {
         "version": "1.5.0"
+    },
+    "phpseclib/phpseclib": {
+        "version": "2.0.29"
     },
     "phpspec/php-diff": {
         "version": "v1.1.0"
@@ -626,6 +632,9 @@
             "config/packages/sylius_invoicing.yaml",
             "config/routes/sylius_invoicing.yaml"
         ]
+    },
+    "sylius/paypal-plugin": {
+        "version": "v1.0.0-rc.1"
     },
     "sylius/refund-plugin": {
         "version": "0.4",
